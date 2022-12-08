@@ -2,6 +2,7 @@
   "user": [
     {
       "id": 1,
+      "username" : "no_mercy_hunter",
       "avtar": "https://i.pravatar.cc/150?img=15",
       "follower": 100,
       "following": 100,
