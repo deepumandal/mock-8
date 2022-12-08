@@ -14,6 +14,7 @@
   "posts" : [
     {
       "id"  :1,
+      "userid" : "no_mercy_hunter",
       "msg" : "this is random tweet",
       "isgif" : true,
       "link" : "https://media3.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif?cid=b3de4f29vit6slv5ihsirl2qi2d08yqh2pmcpph4e68axyky&rid=giphy.gif&ct=g"
