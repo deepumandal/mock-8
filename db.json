@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "avtar": "https://i.pravatar.cc/150?img=15",
+      "follower": 100,
+      "following": 100,
+      "name": "deepak mandal",
+      "email": "nomercyhunters@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
